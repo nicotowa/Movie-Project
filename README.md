@@ -2,7 +2,7 @@
 
 MOVIE-PROJECT is a modern movie discovery platform built with **React.js**, **Appwrite**, and **TailwindCSS**. It provides an intuitive and visually appealing experience for users to browse, search, and explore trending movies.  
 
-
+MOVIE-PROJECT pulls from the TMDB API to allow users to search for their favorites movies.
 
 ### 🚀 Features  
 ✅ **Browse Movies** – Explore a vast collection of movies.  
