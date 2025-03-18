@@ -1,3 +1,23 @@
+## 🎬 Movie Application  
+
+MOVIE-PROJECT is a modern movie discovery platform built with **React.js**, **Appwrite**, and **TailwindCSS**. It provides an intuitive and visually appealing experience for users to browse, search, and explore trending movies.  
+
+
+
+### 🚀 Features  
+✅ **Browse Movies** – Explore a vast collection of movies.  
+✅ **Search Functionality** – Find movies instantly.  
+✅ **Trending Movies Algorithm** – Displays trending movies dynamically.  
+✅ **Modern UI/UX** – Sleek and responsive design.  
+✅ **Fully Responsive** – Works seamlessly across all devices.  
+
+FRONT END:
+React.js
+Tailwind CSS
+
+BACK-END:
+Appwrite
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
